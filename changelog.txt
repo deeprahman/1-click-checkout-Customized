@@ -1,0 +1,16 @@
+# 1.2.0 2019-01-09
+- Add One Click Checkout to product page
+- Add option to configure the order statuses considered as having successful payment information
+- Remove undefined shipping method from links
+- Increase button width for wider screens
+
+# 1.1.1 2018-8-26
+- Fix options not showing in new Payments tab
+- Add text domain as string
+
+# 1.1.0 2018-1-19
+- Fix typo in URL builder
+- Add support for WooCommerce Stripe 4.0
+
+# 1.0.0 2017-9-13
+- Initial release

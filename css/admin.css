@@ -1,0 +1,20 @@
+
+/**
+ * WooCommerce One Click Checkout by GetMogul
+ * https://getmogul.com
+ */
+#gm-wocc-import-form .widefat th {
+  padding: 5px;
+}
+#gm-wocc-import-form input:not([type="checkbox"]), #gm-wocc-import-form select {
+  width: 100%;
+}
+#gm-wocc-import-form .widefat th:first-child {
+  width: 80%;
+}
+#gm-wocc-import-form .gm-wocc-product input {
+  width: 50px;
+}
+#gm-wocc-import-form #gm-wocc-url {
+  width: 70%;
+}

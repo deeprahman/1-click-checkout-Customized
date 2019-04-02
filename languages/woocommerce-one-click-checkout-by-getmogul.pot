@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-09-09 14:54+0200\n"
+"PO-Revision-Date: 2017-09-09 14:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/views/html-url-builder-modal.php:11
+msgid "Products to checkout"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:12
+msgid ""
+"If you leave products empty and select the Keep or Checkout option for the "
+"Current Cart, it will check out whatever is in the cart when the URL is "
+"visited (if something). If you select a variable product without specifying "
+"a variation, it will add the default variation, or if not set, the first "
+"variation."
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:18
+msgid "Product"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:19
+msgid "Quantity"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:26
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:32
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:39
+msgid "Add Product"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:49
+msgid "Coupons"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:50
+msgid "Select the coupons to apply to this order."
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:54
+msgid "None"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:67
+msgid "Current Cart"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:68
+msgid ""
+"If the customer has already something in the cart, you can specify what to "
+"do with it: Keep (checkout the products above and keep the current cart as "
+"it was), Checkout (checkout the products above and the products in the "
+"cart), Discard (checkout only the products above and discard the current "
+"cart)."
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:72
+msgid "Keep"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:73
+#: woocommerce-one-click-checkout-by-getmogul.php:203
+msgid "Checkout"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:74
+msgid "Discard"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:80
+msgid "Shipping Method"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:81
+msgid ""
+"If you select a shipping method different than the default for the order, "
+"you need to make sure the shipping method will be available for the selected "
+"products and the customer region."
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:85
+msgid "Default shipping method for the order"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:104
+msgid "Redirect to Order Received page"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:105
+msgid ""
+"The customer will go to the standard Order Received page after the checkout."
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:113
+msgid "Redirect URL"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:114
+msgid "This is where the customer will go after the checkout."
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:122
+msgid "One Click Checkout URL"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:123
+msgid "The final URL that you can copy."
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:127
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: includes/admin/views/html-url-builder-modal.php:134
+msgid "Close"
+msgstr ""
+
+#: templates/cart/one-click-checkout-button.php:13
+msgid "1-Click checkout"
+msgstr ""
+
+#: templates/cart/one-click-checkout-button.php:15
+msgid "Or"
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:182
+#: woocommerce-one-click-checkout-by-getmogul.php:187
+msgid "One Click Checkout"
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:188
+msgid "Enable One Click Checkout"
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:190
+#, php-format
+msgid ""
+"Enables the One Click Checkout. To create One Click Checkout URLs you can "
+"use %sthis generator%s."
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:190
+msgid "One Click Checkout URL Generator"
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:195
+msgid "One Click Checkout Buttons"
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:196
+msgid "Cart"
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:198
+msgid "Adds a One Click Checkout button to the cart if possible."
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:205
+msgid ""
+"Adds a One Click Checkout button on top of the checkout page if possible."
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:217
+msgid ""
+"Your browser doesn't support the copy to clipboard functionality. You need "
+"to copy the URL manually."
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:236
+msgid "Please login before continuing"
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:420
+msgid "No shipping method available"
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:464
+msgid "View order"
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:464
+msgid "Your order has been received and it is now waiting for payment"
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:604
+#, php-format
+msgid "%s requires WooCommerce to be activated to work"
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:610
+#, php-format
+msgid ""
+"%s requires WooCommerce version %s or higher to work. You are running %s"
+msgstr ""
+
+#: woocommerce-one-click-checkout-by-getmogul.php:625
+msgid "Settings"
+msgstr ""
